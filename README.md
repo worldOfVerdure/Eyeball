@@ -1,15 +1,8 @@
 # CMS Ready Template
 
-The purpose of this template is for me to quickly clone version of this template that is configured
-to my tech stack and settings. In addition, certain optimizations and features are included.
+Practice with an eyeball and it's animations.
 
-## Utilized tools
+The initial code was pulled from:
+https://stackoverflow.com/questions/56804355/creating-a-css-blinking-eyelid-effect#:~:text=I%20would%20do%20this%20differently%20and%20consider%20rotation%20for%20the%20blink%20effect.%20The%20trick%20is%20to%20create%20the%20eye%20with%20two%20elements%20(the%20eyelid)%20to%20be%20able%20to%20blink%20it.
 
-- Favicon
-- https://ilovefavicon.com/
-
-## See
-
-[CHANGELOG.md](./CHANGELOG.md) for version history.
-
-## TODO
+Goal is to change the eye to fit my design choices.
